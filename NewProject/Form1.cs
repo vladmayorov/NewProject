@@ -19,8 +19,8 @@ namespace NewProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Таракан";
-            label2.Text = "Муха";
+            label1.Text = "Жук";
+            label2.Text = "Павук";
         }
     }
 }
